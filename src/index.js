@@ -1,7 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
+import React from "react";
+import ReactDOM from "react-dom";
 
 ReactDOM.render(
   <div>Mount Components Here</div>,
-  document.getElementById('root')
+  document.getElementById("root")
 );
